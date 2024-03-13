@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"3b034f74d73a48e19bffe6733e63f0f6","collectionName":"tf.keras.applications.MobileNetV3Small","type":"collection"}

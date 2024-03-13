@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ec471f5da0b84274b38a8238ce7e5d9b","collectionName":"tf.keras.layers.Convolution3D","type":"collection"}

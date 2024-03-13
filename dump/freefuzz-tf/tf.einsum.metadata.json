@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"66972e5e30ed40ef9852bc2aa94f5d2d","collectionName":"tf.einsum","type":"collection"}
